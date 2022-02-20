@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.resonator.com" resolutions="1x" timestamp="1643724148180">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.resonator.com" resolutions="1x" timestamp="1645342016306">
   <folder name="css">
     <file name="site_global.css" crc="4160814837"/>
-    <file name="master_a-master.css" crc="210613081" ref="facilities:contact:notice:why-bhadrak:exams:about:index:syllabus---material:library:gallery:hostel"/>
-    <file name="facilities.css" crc="468748492" ref="facilities"/>
-    <file name="contact.css" crc="4103895836" ref="contact"/>
-    <file name="notice.css" crc="446815043" ref="notice"/>
-    <file name="why-bhadrak.css" crc="468748492" ref="why-bhadrak"/>
-    <file name="exams.css" crc="4267650944" ref="exams"/>
-    <file name="about.css" crc="183653308" ref="about"/>
-    <file name="index.css" crc="176620876" ref="index"/>
-    <file name="syllabus---material.css" crc="124419660" ref="syllabus---material"/>
-    <file name="library.css" crc="206824231" ref="library"/>
-    <file name="gallery.css" crc="169127431" ref="gallery"/>
-    <file name="hostel.css" crc="437513453" ref="hostel"/>
+    <file name="master_a-master.css" crc="507135585" ref="gallery:index:why-bhadrak:hostel:contact:facilities:syllabus---material:about:exams:library:notice"/>
+    <file name="gallery.css" crc="4282277122" ref="gallery"/>
+    <file name="index.css" crc="3915915101" ref="index"/>
+    <file name="why-bhadrak.css" crc="74047591" ref="why-bhadrak"/>
+    <file name="hostel.css" crc="3936254018" ref="hostel"/>
+    <file name="contact.css" crc="3839813269" ref="contact"/>
+    <file name="facilities.css" crc="74047591" ref="facilities"/>
+    <file name="syllabus---material.css" crc="44106435" ref="syllabus---material"/>
+    <file name="about.css" crc="4038487996" ref="about"/>
+    <file name="exams.css" crc="29004475" ref="exams"/>
+    <file name="library.css" crc="165214209" ref="library"/>
+    <file name="notice.css" crc="3771919577" ref="notice"/>
   </folder>
   <folder name="assets">
     <file name="chse-science-revised-syllabus-20-21.pdf" crc="310375928" seo="true" mt="1617367982000"/>
@@ -22,7 +22,7 @@
     <file name="museutils.js" crc="3939489907" ref="index:facilities:exams:gallery:contact:about:notice:hostel:syllabus---material:library:why-bhadrak"/>
     <file name="whatinput.js" crc="86476730" ref="index:facilities:exams:gallery:contact:about:notice:hostel:syllabus---material:library:why-bhadrak"/>
     <file name="museconfig.js" crc="3936894949" ref="index:facilities:exams:gallery:contact:about:notice:hostel:syllabus---material:library:why-bhadrak"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:gallery:contact:about:hostel:library"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:exams:gallery:contact:about:notice:hostel:library"/>
     <file name="jquery.musemenu.js" crc="4139692962" ref="index:facilities:exams:gallery:contact:about:notice:hostel:syllabus---material:library:why-bhadrak"/>
     <file name="webpro.js" crc="3856315280" ref="index:gallery:contact:about"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index:gallery:about"/>
@@ -37,10 +37,10 @@
     <file name="form-u2341.php" crc="49812337" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="covid-tile.png" crc="3799383868" ref="index">
+    <file name="covid-tile.png" crc="536164627" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cio-book-list.png" crc="232290830" ref="index">
+    <file name="cio-book-list.png" crc="4198375235" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -49,21 +49,21 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1245 (40)-crop-u882.jpg" crc="4032775299" seo="true" ref="index">
+    <file name="1245 (42)-crop-u1686.jpg" crc="4116796899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:gallery"/>
-    <file name="1245 (41)-crop-u1660.jpg" crc="4291231042" seo="true" ref="index">
+    <file name="1245 (40)-crop-u882.jpg" crc="4267589921" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1245 (42)-crop-u1686.jpg" crc="444380215" seo="true" ref="index">
+    <file name="1245 (41)-crop-u1660.jpg" crc="4106884092" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:gallery"/>
     <file name="1245 (4).png" crc="281402250" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8.jpg" crc="4229885202" ref="index">
+    <file name="8.jpg" crc="4140008083" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted image 301x391.jpg" crc="105033032" seo="true" ref="index">
@@ -78,14 +78,14 @@
     <file name="pasted image 608x177.jpg" crc="4058682393" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="14.jpg" crc="4056834741" ref="index">
+    <file name="14.jpg" crc="39562455" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="12.jpg" crc="435853798" ref="index">
+    <file name="12.jpg" crc="4132661513" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7.jpg" crc="238242027" ref="index">
+    <file name="7.jpg" crc="4229421203" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -98,7 +98,7 @@
     <file name="pasted image 300x520.jpg" crc="4113629089" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4-u2597-fr.jpg" crc="480397268" ref="index"/>
+    <file name="4-u2597-fr.jpg" crc="3828271712" ref="index"/>
     <file name="science-books-shelf-open-book-glasses-lettering-science-books-shelf-open-book-glasses-lettering-white-135179577.jpg" crc="3802445126" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -126,82 +126,40 @@
     <file name="rplexpng.png" crc="3904316786" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 418x488.jpg" crc="3950056200" seo="true" ref="gallery">
+    <file name="new.png" crc="382937091" ref="exams:notice">
+      <caption webpage="notice" alt=""/>
+      <caption webpage="exams" alt=""/>
+    </file>
+    <file name="4-u3980-fr.jpg" crc="4210452207" ref="gallery"/>
+    <file name="4-crop-u2665.jpg" crc="323083315" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="4-crop-u2665.jpg" crc="67609711" seo="true" ref="gallery">
+    <file name="7-crop-u2778.jpg" crc="3962183620" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="7-crop-u2778.jpg" crc="247630357" seo="true" ref="gallery">
+    <file name="8-crop-u2804.jpg" crc="4131811571" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="8771x514.jpg" crc="3787257763" seo="true" ref="gallery">
+    <file name="13-crop-u2830.jpg" crc="3833833400" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="13.jpg" crc="3991864863" seo="true" ref="gallery">
+    <file name="14-crop-u2856.jpg" crc="100280131" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="14783x441.jpg" crc="162214513" seo="true" ref="gallery">
+    <file name="fd23a2e5-da1b-4b55-9d73-e02b9ee5d2e4.jpg" crc="3824513895" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="1245 (1).png" crc="316510407" ref="gallery">
+    <file name="d.jpg" crc="4090842054" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="62.jpg" crc="151680494" ref="gallery:about">
+    <file name="sd.jpg" crc="3912521271" ref="gallery">
       <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="eye-u4202-r-fr.jpg" crc="516309425" ref="gallery:about"/>
-    <file name="81.jpg" crc="4038181826" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="23.jpg" crc="261757089" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="39.jpg" crc="115101202" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="89.jpg" crc="4063556331" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img-20170529-wa0010.jpg" crc="4148877887" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="img-20180604-wa0004.jpg" crc="4156016900" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img-20180606-wa0017.jpg" crc="196439218" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="16.jpg" crc="3958905026" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="95.jpg" crc="3791565410" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="92.jpg" crc="93043459" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="eye-u4212-r-fr.jpg" crc="469848097" ref="gallery:about"/>
-    <file name="17.jpg" crc="328814550" ref="gallery:about">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="13-u3978-fr.jpg" crc="4230936112" ref="gallery"/>
-    <file name="162.jpg" crc="406981793" ref="gallery">
+    <file name="16.jpg" crc="406981793" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="4-u3980-fr.jpg" crc="3871539732" ref="gallery"/>
-    <file name="14-u3981-fr.jpg" crc="47028987" ref="gallery"/>
+    <file name="14-u3981-fr.jpg" crc="382279454" ref="gallery"/>
     <file name="9.jpg" crc="3888426639" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
@@ -224,6 +182,44 @@
     <file name="94.jpg" crc="3986097041" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="62.jpg" crc="151680494" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="eye-u3528-r-fr.jpg" crc="516309425" ref="about"/>
+    <file name="81.jpg" crc="4038181826" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="23.jpg" crc="261757089" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="39.jpg" crc="115101202" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="89.jpg" crc="4063556331" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="img-20170529-wa0010.jpg" crc="4148877887" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="img-20180604-wa0004.jpg" crc="4156016900" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="img-20180606-wa0017.jpg" crc="196439218" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="162.jpg" crc="3958905026" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="95.jpg" crc="3791565410" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="92.jpg" crc="93043459" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="eye-u3524-r-fr.jpg" crc="469848097" ref="about"/>
+    <file name="17.jpg" crc="328814550" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
     <file name="dsff.jpg" crc="275384678" ref="hostel">
       <caption webpage="hostel" alt=""/>
     </file>
@@ -240,19 +236,16 @@
       <caption webpage="hostel" alt=""/>
     </file>
     <file name="lib-2-u3169-fr.jpg" crc="434214454" ref="library"/>
-    <file name="1245 (5).png" crc="4159537749" ref="library">
-      <caption webpage="library" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4109508227" seo="true" mt="1643717609423" redirect="true"/>
-  <file name="facilities.html" crc="4259118664" seo="true" mt="1643717169424" redirect="true"/>
-  <file name="exams.html" crc="229341275" seo="true" mt="1643723714333" redirect="true"/>
-  <file name="gallery.html" crc="4268490194" seo="true" mt="1643717169424" redirect="true"/>
-  <file name="contact.html" crc="3789884976" seo="true" mt="1643717169424" redirect="true"/>
-  <file name="about.html" crc="468117660" seo="true" mt="1643720169137" redirect="true"/>
-  <file name="notice.html" crc="3855628557" seo="true" mt="1643717169424" redirect="true"/>
-  <file name="hostel.html" crc="4008363613" seo="true" mt="1643717169424" redirect="true"/>
-  <file name="syllabus---material.html" crc="3786844557" seo="true" mt="1643721034540" redirect="true"/>
-  <file name="library.html" crc="4286605139" seo="true" mt="1643721472678" redirect="true"/>
-  <file name="why-bhadrak.html" crc="402764719" seo="true" mt="1643717169424" redirect="true"/>
+  <file name="index.html" crc="242785895" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="facilities.html" crc="4210869179" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="exams.html" crc="4190073935" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="gallery.html" crc="79678636" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="contact.html" crc="386989650" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="about.html" crc="403964486" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="notice.html" crc="4031557155" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="hostel.html" crc="91263873" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="syllabus---material.html" crc="418525741" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="library.html" crc="378187979" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="why-bhadrak.html" crc="42621891" seo="true" mt="1645341696893" redirect="true"/>
 </manifest>
