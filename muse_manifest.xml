@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.resonator.com" resolutions="1x" timestamp="1645720055382">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.resonator.com" resolutions="1x" timestamp="1645725109422">
   <folder name="css">
     <file name="site_global.css" crc="4160814837"/>
-    <file name="master_a-master.css" crc="3794838341" ref="facilities:syllabus---material:about:exams:library:notice:gallery:index:why-bhadrak:hostel:contact"/>
-    <file name="facilities.css" crc="74047591" ref="facilities"/>
-    <file name="syllabus---material.css" crc="4176673951" ref="syllabus---material"/>
-    <file name="about.css" crc="32274964" ref="about"/>
-    <file name="exams.css" crc="355281715" ref="exams"/>
-    <file name="library.css" crc="3898593279" ref="library"/>
-    <file name="notice.css" crc="317593623" ref="notice"/>
-    <file name="gallery.css" crc="54294399" ref="gallery"/>
-    <file name="index.css" crc="3777738272" ref="index"/>
-    <file name="why-bhadrak.css" crc="74047591" ref="why-bhadrak"/>
-    <file name="hostel.css" crc="363811651" ref="hostel"/>
-    <file name="contact.css" crc="340889766" ref="contact"/>
+    <file name="master_a-master.css" crc="45003186" ref="facilities:syllabus---material:about:exams:library:notice:gallery:index:why-bhadrak:hostel:contact"/>
+    <file name="facilities.css" crc="311491653" ref="facilities"/>
+    <file name="syllabus---material.css" crc="4198232467" ref="syllabus---material"/>
+    <file name="about.css" crc="3817937549" ref="about"/>
+    <file name="exams.css" crc="20556652" ref="exams"/>
+    <file name="library.css" crc="4220202172" ref="library"/>
+    <file name="notice.css" crc="3856678084" ref="notice"/>
+    <file name="gallery.css" crc="437519047" ref="gallery"/>
+    <file name="index.css" crc="474577247" ref="index"/>
+    <file name="why-bhadrak.css" crc="311491653" ref="why-bhadrak"/>
+    <file name="hostel.css" crc="150340144" ref="hostel"/>
+    <file name="contact.css" crc="364687089" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="chse-science-revised-syllabus-20-21.pdf" crc="310375928" seo="true" mt="1617367982000"/>
@@ -237,15 +237,15 @@
     </file>
     <file name="lib-2-u3169-fr.jpg" crc="434214454" ref="library"/>
   </folder>
-  <file name="index.html" crc="302681867" seo="true" mt="1645715940960" redirect="true"/>
-  <file name="facilities.html" crc="223276686" seo="true" mt="1645341696893" redirect="true"/>
-  <file name="exams.html" crc="433626823" seo="true" mt="1645717511094" redirect="true"/>
-  <file name="gallery.html" crc="3781768611" seo="true" mt="1645717540110" redirect="true"/>
-  <file name="contact.html" crc="96159686" seo="true" mt="1645341696893" redirect="true"/>
-  <file name="about.html" crc="96366292" seo="true" mt="1645716834169" redirect="true"/>
-  <file name="notice.html" crc="4091360422" seo="true" mt="1645717385415" redirect="true"/>
-  <file name="hostel.html" crc="4006541544" seo="true" mt="1645717022435" redirect="true"/>
-  <file name="syllabus---material.html" crc="398114188" seo="true" mt="1645717327007" redirect="true"/>
-  <file name="library.html" crc="533071276" seo="true" mt="1645717303253" redirect="true"/>
-  <file name="why-bhadrak.html" crc="357834337" seo="true" mt="1645341696893" redirect="true"/>
+  <file name="index.html" crc="4221227272" seo="true" mt="1645723414381" redirect="true"/>
+  <file name="facilities.html" crc="4122712717" seo="true" mt="1645723414381" redirect="true"/>
+  <file name="exams.html" crc="4001143037" seo="true" mt="1645724389602" redirect="true"/>
+  <file name="gallery.html" crc="3881808002" seo="true" mt="1645724930606" redirect="true"/>
+  <file name="contact.html" crc="3877818882" seo="true" mt="1645723414381" redirect="true"/>
+  <file name="about.html" crc="363507435" seo="true" mt="1645723610125" redirect="true"/>
+  <file name="notice.html" crc="4284652206" seo="true" mt="1645723414381" redirect="true"/>
+  <file name="hostel.html" crc="3770981346" seo="true" mt="1645723990592" redirect="true"/>
+  <file name="syllabus---material.html" crc="51849493" seo="true" mt="1645724113490" redirect="true"/>
+  <file name="library.html" crc="3985933032" seo="true" mt="1645724213919" redirect="true"/>
+  <file name="why-bhadrak.html" crc="63765472" seo="true" mt="1645723414381" redirect="true"/>
 </manifest>
